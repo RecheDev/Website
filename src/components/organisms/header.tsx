@@ -6,11 +6,11 @@ export const Header = () => {
   return (
     <>
       <Head>
-        <title>Josep Vidal — UX engineer</title>
-        <meta name="description" content="UX engineer with a product mindset" />
+        <title>Luis Reche — Junior Software Engineer</title>
+        <meta name="description" content="Currently studying DAW at CESUR and Java at University of Helsinki" />
         <meta
           name="og:description"
-          content="UX engineer with a product mindset"
+          content="Currently studying DAW at Cesur and Java at University of Helsinki"
         />
         <meta property="og:image" content="https://jvidal.dev/og.png" />
         <meta name="author" content="@josepvidalvidal" />
@@ -27,7 +27,7 @@ export const Header = () => {
             href="/"
             className="block bg-gradient-to-r from-primary to-accent w-8 h-8 transition border border-transparent hover:scale-105"
           >
-            <span className="sr-only">josepvidal.dev</span>
+            <span className="sr-only">rechedev.com</span>
           </Link>
           <Spotlight />
         </nav>

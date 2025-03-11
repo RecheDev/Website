@@ -8,13 +8,13 @@ export default function Home() {
       <section>
         <SectionHeader>/me</SectionHeader>
         <h1 className="-mt-1.5 w-fit text-5xl font-bold bg-gradient-to-r from-primary to-accent text-transparent bg-clip-text mb-2.5">
-          Josep Vidal
+          Luis Reche
         </h1>
         <p className="text-2xl text-black dark:text-white mb-3 container-ch">
-          UX Engineer
+          Junior Software Engineer
         </p>
         <p className="text-neutral-600 dark:text-neutral-400 text-xl leading-7">
-          I build smooth apps that feel natural to use.
+          Currently studying DAW at CESUR and Java at the University of Helsinki.
         </p>
       </section>
       <section>
@@ -32,9 +32,9 @@ export default function Home() {
         <WithArrow>Learning while working on small side projects.</WithArrow>
         <br />
         <WithArrow>
-          Growing as an engineer within a top{" "}
-          <a href="https://qonto.com/" target="_blank" rel="noreferrer">
-            european fintech unicorn 🦄
+          Growing as an engineer doing courses in the{" "}
+          <a href="https://www.mooc.fi/en/" target="_blank" rel="noreferrer">
+            University of Helsinki 🦄
           </a>
           .
         </WithArrow>
@@ -42,33 +42,25 @@ export default function Home() {
       <section>
         <SectionHeader>/before</SectionHeader>
         <WithArrow>
-          Founder engineer on a{" "}
-          <a href="https://www.grafbase.com/" target="_blank" rel="noreferrer">
-            GraphQL startup ☄️
+          Pharmacist on{" "}
+          <a href="https://farmaciaportals.es/" target="_blank" rel="noreferrer">
+            Farmacia Portals ☄️
           </a>
           .
         </WithArrow>
         <br />
         <WithArrow>
-          Leading the frontend team on a brand new electronic signature app ✳️.
+        Carrying out direct sales to customers and specializing in generating product listings using SQL language. ✳️.
         </WithArrow>
         <br />
         <WithArrow>
-          Automating processes as a full-stack dev on an{" "}
-          <a href="https://factorenergia.com" target="_blank" rel="noreferrer">
-            energy company ⚡️
-          </a>
-          .
+        Automating routine processes with Python. {" "}
         </WithArrow>
       </section>
       <section>
         <SectionHeader>/projects</SectionHeader>
         <p className="flex flex-wrap text-lg gap-4 mb-3 container-ch">
-          {projects.map(({ name, href }) => (
-            <a key={name} href={href} target="_blank" rel="noreferrer">
-              {name}
-            </a>
-          ))}
+          
         </p>
       </section>
     </>
