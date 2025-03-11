@@ -1,6 +1,6 @@
 import { SectionHeader, WithArrow } from "@/components/atoms";
 import socials from "@/lib/socials";
-import projects from "@/lib/projects";
+
 
 export default function Home() {
   return (

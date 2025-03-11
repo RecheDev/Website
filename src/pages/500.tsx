@@ -1,6 +1,5 @@
 import { SectionHeader, WithArrow } from "@/components/atoms";
 import socials from "@/lib/socials";
-import projects from "@/lib/projects";
 import Link from "next/link";
 
 export default function Error500page() {
