@@ -11,10 +11,10 @@ export default function Home() {
           Luis Reche
         </h1>
         <p className="text-2xl text-black dark:text-white mb-3 container-ch">
-          Junior Software Engineer
+          Data Analyst
         </p>
         <p className="text-neutral-600 dark:text-neutral-400 text-xl leading-7">
-          Currently studying DAW at CESUR and Java at the University of Helsinki.
+          Currently studying in DataCamp and preparing for PL-300 and AZ-900 certificates
         </p>
       </section>
       <section>
@@ -32,7 +32,7 @@ export default function Home() {
         <WithArrow>Learning while working on small side projects.</WithArrow>
         <br />
         <WithArrow>
-          Growing as an engineer doing courses in the{" "}
+          Growing as an analyst doing courses in the{" "}
           <a href="https://www.mooc.fi/en/" target="_blank" rel="noreferrer">
             University of Helsinki 🦄
           </a>
