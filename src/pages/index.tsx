@@ -11,10 +11,10 @@ export default function Home() {
           Luis Reche
         </h1>
         <p className="text-2xl text-black dark:text-white mb-3 container-ch">
-          Data Analyst
+          Fullstack Developer
         </p>
         <p className="text-neutral-600 dark:text-neutral-400 text-xl leading-7">
-          Currently studying in DataCamp and preparing for PL-300 and AZ-900 certificates
+          Currently studying Python in the University of Helsinki
         </p>
       </section>
       <section>
