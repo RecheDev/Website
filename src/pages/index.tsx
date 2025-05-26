@@ -11,10 +11,10 @@ export default function Home() {
           Luis Reche
         </h1>
         <p className="text-2xl text-black dark:text-white mb-3 container-ch">
-          Fullstack Developer
+          Software Engineer
         </p>
         <p className="text-neutral-600 dark:text-neutral-400 text-xl leading-7">
-          Currently studying Python in the University of Helsinki
+          Currently studying Java in the University of Helsinki and DAW
         </p>
       </section>
       <section>
@@ -32,9 +32,9 @@ export default function Home() {
         <WithArrow>Learning while working on small side projects.</WithArrow>
         <br />
         <WithArrow>
-          Growing as an analyst doing courses in the{" "}
+          Growing as an engineer doing courses in the{" "}
           <a href="https://www.mooc.fi/en/" target="_blank" rel="noreferrer">
-            University of Helsinki 🦄
+            University of Helsinki.
           </a>
           .
         </WithArrow>
@@ -44,7 +44,7 @@ export default function Home() {
         <WithArrow>
           Pharmacist on{" "}
           <a href="https://farmaciaportals.es/" target="_blank" rel="noreferrer">
-            Farmacia Portals ☄️
+            Farmacia Portals.
           </a>
           .
         </WithArrow>
